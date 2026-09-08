@@ -1,223 +1,133 @@
 # Terms of Service
-**Last Updated: September 8, 2026**
+
+**Last Updated: August 30, 2026**
 
 ## 1. Acceptance of Terms
 
-By accessing, visiting, adding, or using **Keypass** (collectively, the "Service", including the Keypass website, Discord bot, free bypass flow, CAPTCHA verification flow, supported-service pages, and paid Developer API), you agree to be bound by these Terms of Service ("Terms"). 
-
-If you do not agree to these Terms, you must immediately discontinue use of the Service. We reserve the right to revise these Terms at any time; your continued use of Keypass following the posting of modifications constitutes your acceptance of the updated Terms.
-
-Your use of Keypass via Discord is additionally subject to [Discord's Terms of Service](https://discord.com/terms) and [Community Guidelines](https://discord.com/guidelines).
-
----
+By adding, accessing, or using **Keypass** (the "Bot" or "Service") on Discord, you agree to be bound by these Terms of Service ("Terms"). If you do not agree to these Terms, you must not use the Service. We may update these Terms at any time, and continued use of the Service after changes are posted constitutes acceptance of the revised Terms.
 
 ## 2. Description of Service
 
-Keypass is a link resolution and utility service that extracts and resolves destination URLs from link-shortening, ad-link, and intermediary redirect services. The Service is provided strictly for convenience, testing, and informational purposes. Keypass does not host, author, endorse, or control the content hosted at resolved destination URLs.
+Keypass is a free Discord bot that resolves destination URLs from link-shortening and ad-link services. The Service is provided for informational and convenience purposes only. We do not host, create, or control the content found at any destination URL. Keypass does not offer paid plans, subscriptions, or advertising-supported features — the Service is provided free of charge.
 
-Keypass operates across multiple access channels:
-- **Free Public Website & Discord Bot:** Manual, ad-supported tools for individual end users.
-- **Paid Developer API:** Programmatic, direct integration access for developers and automated workflows under paid subscription or usage-based billing models.
-
----
+Your use of Keypass is also subject to [Discord's Terms of Service](https://discord.com/terms) and [Community Guidelines](https://discord.com/guidelines).
 
 ## 3. Eligibility
 
-You must meet the minimum legal age required by your jurisdiction and by Discord (if accessing via Discord) to use this Service. By using Keypass, you represent and warrant that you possess the legal capacity to enter into these Terms.
+You must meet Discord's minimum age requirement to use this Service. By using the Bot, you represent that you meet this requirement and have the legal capacity to enter into these Terms.
 
----
+## 4. Acceptable Use
 
-## 4. Free Use, Advertising, and CAPTCHA Requirements
+You agree to use the Service only for lawful purposes. You must **not**:
 
-The public Keypass website is made available for free, manual end-user lookup.
+- Use the Service to access, distribute, or facilitate access to illegal content, malware, phishing sites, or content that violates applicable law.
+- Attempt to overload, disrupt, or interfere with the Bot, its commands, or its infrastructure, including spam or automated abuse.
+- Reverse-engineer, decompile, or attempt to extract the source code of the Bot.
+- Use self-bots, automation, or scripts to send excessive or abusive requests to the Bot.
+- Attempt to circumvent rate limits or anti-abuse protections.
+- Impersonate Keypass or misrepresent your affiliation with it.
+- Rehost, clone, or resell the Bot or its functionality under your own name or brand.
 
-- **Advertising Disclosure:** You acknowledge and agree that free access to the Service is funded and supported by third-party advertising. During the bypass process, you may be presented with intermediary advertisement formats, including but not limited to pop-unders, interstitials, banners, sponsored placements, and browser push notification prompts.
-- **CAPTCHA Verification:** You may be required to complete CAPTCHA challenges (e.g., via Cloudflare Turnstile) before a bypass request is processed.
-- **Anti-Abuse Restrictions:** You must **not** bypass, evade, or tamper with CAPTCHA verification, or automate requests to the free web endpoints. 
-- **Usage Limits:** Free access is strictly intended for single-request, manual browsing. We reserve the right to rate-limit, delay, throttle, or block specific URLs, domains, IP addresses, devices, or sessions if we detect unusual traffic, automation, or abuse.
+We reserve the right to block, rate-limit, or terminate access for any user or server that violates these Terms, at our sole discretion and without prior notice.
 
----
+## 5. No Payment, No Advertising
 
-## 5. API and Developer Access
+Keypass does not charge for access to any feature and does not display advertising. There is no billing, subscription, or paid tier associated with the Service. Because the Service is free and unmonetized, we make no commitment to any specific level of uptime, support, or continued availability.
 
-Developer access to the Keypass API is provided subject to the following terms and the specific plan purchased on our pricing page:
+## 6. Intellectual Property
 
-- **Integration Scope:** API access is granted solely for direct integration into your own personal projects, internal workflows, or customer-facing applications (processed server-side).
-- **Billing Models:** 
-  - *Usage-Based Billing:* Charges and credit deductions are calculated based on successful bypasses in accordance with published pricing.
-  - *Subscription Access:* Grants access subject to reasonable technical usage limits and active billing status.
-- **Technical Quotas & Modifications:** We reserve the right to modify API rate limits, request parameters, concurrency caps, endpoint routing, and pricing tiers at any time.
-- **Service Protection & Throttling:** If your API usage consumes disproportionate infrastructure resources, generates abusive request patterns, or degrades service reliability for other users, we reserve the right to throttle, deduct credits, suspend, or terminate your API credentials without prior notice or liability.
-- **Credential Security:** You are responsible for keeping your API keys secure. We may rotate, revoke, or suspend compromised credentials. Storing API keys within shared or client-side environments is done at your own risk.
+All original content related to Keypass — including its name, branding, and code — is the property of Keypass.
 
----
+Destination URLs and third-party content resolved through the Service remain the property of their respective owners. Keypass acts only as a resolution/lookup tool and claims no ownership over third-party resources.
 
-## 6. Strict Rehosting and Resale Policy
+## 7. Disclaimer of Warranties
 
-You are strictly prohibited from rehosting, mirroring, proxying, wrapping, or publicly exposing the Keypass API under your own brand, domain, or service without explicit, prior written authorization from Keypass.
+THE SERVICE IS PROVIDED ON AN "AS IS" AND "AS AVAILABLE" BASIS, WITHOUT WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
 
-- **Prohibited Conduct:** Creating public relay endpoints, mirror services, wrapper APIs, or sublicensing API access to third parties is strictly forbidden.
-- **No Competing Services:** You may not build or operate a competing bypass service, public scraper, or public-facing lookup engine powered directly or indirectly by our API.
-- **Server-Side Integration:** If you provide bypass functionality within your own commercial application, all calls must be handled server-side. You must never expose our endpoints, API keys, or raw backend infrastructure to your end users.
-- **Consequences:** Violation of this policy results in **immediate, non-refundable key revocation and a permanent ban** from the Keypass ecosystem.
+We do not guarantee that the Service will be uninterrupted, error-free, accurate, or that it will successfully resolve every link or shortener.
 
----
+## 8. Limitation of Liability
 
-## 7. Payments, Refunds, and Chargebacks
+To the fullest extent permitted by law, Keypass and its operator(s) are not liable for any indirect, incidental, special, consequential, or punitive damages, or loss of data or use, arising from your use of the Service. We are not responsible for the content, safety, or legality of any destination URL. You access third-party content entirely at your own risk.
 
-- **Finality of Purchases:** All purchases for API credits, subscriptions, or digital access tiers are final and non-refundable, except where required by applicable consumer law.
-- **Service Continuity:** We do not guarantee uninterrupted uptime, permanent availability of specific bypass methods, or indefinite compatibility with any third-party link shortener or service provider.
-- **Chargebacks & Disputes:** If you file a chargeback, payment dispute, or reversal against any Keypass purchase:
-  - Your API keys and developer accounts will be **immediately suspended**.
-  - Your associated IP addresses, emails, and accounts will be **permanently banned** across all Keypass platforms and services.
-  - We actively contest fraudulent chargebacks and reserve the right to pursue recovery.
+## 9. Indemnification
 
----
+You agree to indemnify and hold harmless Keypass and its operator(s) from any claims, damages, or losses (including reasonable legal fees) arising from your violation of these Terms or misuse of the Service.
 
-## 8. Acceptable Use Policy
+## 10. Third-Party Services & Trademarks
 
-You agree not to use Keypass to:
-- Access, generate, or distribute illegal content, malware, spyware, phishing kits, exploit payloads, or materials that violate intellectual property rights.
-- Attempt to decompile, reverse-engineer, attack, or compromise Keypass infrastructure, backend algorithms, or rate-limiting systems.
-- Deploy unauthorized self-bots, scrapers, or flood tools against free or unauthenticated endpoints.
-- Misrepresent your identity or falsely claim affiliation with Keypass.
+Keypass is not affiliated with, endorsed by, or officially connected to Discord Inc. or any of the link-shortening services it resolves. All trademarks and product names mentioned belong to their respective owners; use of these names does not imply endorsement.
 
----
+## 11. Termination
 
-## 9. Intellectual Property
+We may suspend or terminate the Bot's access to your server, or your ability to use the Bot, at any time, with or without cause or notice. Provisions that by their nature should survive termination (ownership, disclaimers, indemnity, liability limits) will survive.
 
-All proprietary code, branding, logos, website designs, documentation, and original assets associated with Keypass are the exclusive property of Keypass.
+## 12. Governing Law
 
-Resolved destination URLs, third-party trademarks, and external brand names remain the property of their respective owners. Keypass claims no ownership, affiliation, or endorsement regarding third-party websites or services.
+These Terms are governed by applicable law without regard to conflict-of-law principles. Disputes will first be resolved through good-faith negotiation, and if unresolved, submitted to the jurisdiction of the competent courts.
 
----
+## 13. Severability
 
-## 10. Disclaimer of Warranties
+If any provision is found unenforceable, it will be limited or removed to the minimum extent necessary, and the remaining provisions will remain in full effect.
 
-KEYPASS IS PROVIDED ON AN **"AS IS"** AND **"AS AVAILABLE"** BASIS WITHOUT WARRANTIES OF ANY KIND, WHETHER EXPRESS, IMPLIED, STATUTORY, OR OTHERWISE, INCLUDING WITHOUT LIMITATION WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, UPTIME, RESOLUTION ACCURACY, OR NON-INFRINGEMENT. WE DO NOT GUARANTEE THAT THE SERVICE WILL RESOLVE EVERY PROVIDER OR REMAIN ERROR-FREE.
+## 14. Changes to These Terms
 
----
-
-## 11. Limitation of Liability
-
-TO THE MAXIMUM EXTENT PERMITTED BY LAW, KEYPASS AND ITS OPERATORS, AFFILIATES, AND AGENTS SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, PUNITIVE, OR BUSINESS-RELATED DAMAGES (INCLUDING LOSS OF PROFITS, DATA, REVENUE, OR OPERATIONAL DOWNTIME) ARISING OUT OF OR IN CONNECTION WITH YOUR USE OF THE WEBSITE, BOT, OR API.
-
-WE ARE NOT RESPONSIBLE FOR THE SAFETY, LEGALITY, OR CONTENT OF ANY THIRD-PARTY SITES, ADVERTISERS, OR LANDING PAGES ACCESSED VIA OUR RESOLUTION TOOLS OR SPONSORED ADS. YOU ACCESS ALL EXTERNAL LINKS AT YOUR OWN RISK.
-
----
-
-## 12. Indemnification
-
-You agree to indemnify, defend, and hold harmless Keypass, its operators, and affiliates against any third-party claims, liabilities, losses, damages, and expenses (including legal fees) arising from your breach of these Terms, misuse of the Service, or violation of any law or third-party rights.
-
----
-
-## 13. Termination
-
-We reserve the right to suspend or terminate your access to the Keypass website, API, or Discord bot at any time, with or without notice, for conduct that violates these Terms or threatens service stability. Provisions regarding intellectual property, disclaimers, liability limits, and indemnification shall survive termination.
-
----
-
-## 14. Governing Law & Severability
-
-These Terms are governed by applicable law without regard to conflict-of-law principles. If any provision of these Terms is deemed invalid or unenforceable, that provision will be modified to the minimum extent necessary, and the remaining provisions will remain in full force.
+We may revise these Terms at any time by updating this page and the "Last Updated" date. Continued use after changes constitutes acceptance of the revised Terms.
 
 ---
 
 # Privacy Policy
-**Last Updated: September 8, 2026**
+
+**Last Updated: August 30, 2026**
 
 ## 1. Introduction
 
-Keypass ("we", "us", or "our") respects your privacy. This Privacy Policy details the types of information we process across the Keypass website, Discord bot, and Developer API, and explains how that data is handled.
+Keypass ("we," "us," or "our") respects your privacy. This Privacy Policy explains what information is processed when you use the Keypass Discord bot and how it is handled. By using the Bot, you agree to this policy.
 
----
+## 2. Information We Collect
 
-## 2. Information We May Process
+### 2.1 Personal Information
 
-Depending on your mode of interaction with Keypass, we may process:
+We do not collect personal information. Keypass does not require a separate account, email address, or any personally identifiable information beyond what Discord itself provides when you interact with the Bot (e.g., your Discord user ID, which is inherent to how Discord bots function).
 
-1. **Submitted URLs & Metadata:** The raw URLs submitted for bypass resolution along with technical routing parameters.
-2. **Short-Term Cached Results:** Temporarily stored resolution results to accelerate repeat queries for popular or identical links.
-3. **Verification Tokens:** Anti-bot challenge response data (such as Cloudflare Turnstile tokens) for manual free-tier verification.
-4. **Technical & Security Logs:** IP addresses, timestamps, HTTP headers, user-agent details, endpoint usage, and firewall/rate-limiting event logs.
-5. **API & Developer Information:** API authentication keys, aggregate request volumes, credit consumption metrics, and billing identifiers.
-6. **Discord Integration Data (Bot only):** Discord user IDs, Guild/Channel IDs, and command context necessary to return responses within Discord.
-7. **Support Communications:** Inquiries, feedback, or dispute details sent directly to our support channels.
+### 2.2 URLs You Submit
 
----
+When you submit a URL to Keypass for resolution, it is processed in real time to return a result. Submitted URLs are processed in memory and are not stored after the result is returned to you.
 
-## 3. How We Process Data by Channel
+### 2.3 Discord-Provided Data
 
-### 3.1 Free Website Use
-When using the public web interface, we process your submitted URL, IP address, request headers, and CAPTCHA token to fulfill the bypass and safeguard against automated scraping. Free web requests are designed for manual usage and are subject to automated abuse detection.
+To function as a Discord bot, Keypass may temporarily process data provided by Discord's API in the course of handling a command, such as:
 
-### 3.2 Developer API Use
-When accessing the API, we record your API key, endpoint routes, query volume, and response status codes to authenticate requests, enforce plan quotas, bill for usage, and monitor endpoint health.
+- Your Discord user ID
+- The server (guild) ID and channel ID where a command was used
+- The command/message content needed to process your request
 
-*Note on Local Storage:* If you input or save your API key into our web interface, it is stored client-side in your browser’s `localStorage` for convenience. It is not saved in a managed secret vault on our web servers; do not store credentials on shared or untrusted machines.
+This data is used only to process your request and is not stored beyond what is necessary for that purpose, and is not used for tracking, profiling, or advertising.
 
-### 3.3 Discord Bot Use
-Requests handled through our Discord bot temporarily process Discord API payload data in memory to execute commands. Bot data is not utilized for cross-server user profiling.
+## 3. No Ads, No Tracking, No Data Sales
 
----
+Keypass does not display advertising and does not use third-party advertising or tracking networks. We do not sell, rent, or share user data with advertisers or data brokers.
 
-## 4. Purpose of Data Processing
+## 4. Data Retention
 
-We process data strictly to:
-- Fulfill link resolution requests and deliver destination URLs.
-- Validate CAPTCHA challenges to mitigate bot traffic.
-- Enforce API quotas, concurrency rules, and billing accuracy.
-- Log per-request success and failure metrics for reliability diagnostics without associating outcomes with individual personal identities.
-- Detect, prevent, and mitigate security threats, DDoS attempts, and abusive traffic.
-- Respond to inquiries and abuse notifications.
+Submitted URLs are not stored. Any request data processed to fulfill a command is not retained beyond what is needed to complete that request.
 
----
+## 5. Third-Party Links
 
-## 5. Third Parties and Advertising
+Keypass resolves destination URLs from third-party services. We are not responsible for the privacy practices, content, or security of those third-party sites. Review the privacy policy of any site you visit after using the Service.
 
-We do not sell your personal information. However, we integrate with select infrastructure and monetization partners to deliver the Service:
+## 6. Children's Privacy
 
-- **Security & Verification Partners:** We utilize **Cloudflare** (including Turnstile) to mitigate DDoS attacks, verify human interaction, and secure our network.
-- **Advertising Networks:** The free website uses third-party advertising networks, such as **Adsterra** (and potentially others, such as Google AdSense or similar partners in the future). These advertising partners may collect technical identifiers, such as:
-  - IP address and approximate geographic location.
-  - Browser type, operating system, and device configuration.
-  - Referral data, click interactions, and cookie/tag identifiers.
+Keypass is not directed at children under Discord's minimum age requirement. We do not knowingly collect data from children.
 
-These partners handle data in accordance with their respective privacy policies.
+## 7. Your Rights
 
----
+Since Keypass does not retain personal data beyond what's needed to process a request, most data-subject rights (access, deletion, correction, etc.) are not generally applicable in practice. If you have privacy concerns, feel free to reach out via any contact method available where Keypass is listed.
 
-## 6. Cookies and Tracking Technologies
+## 8. Security
 
-- **Essential Storage:** We use browser storage (`localStorage` / essential session cookies) to retain interface preferences and locally stored API tokens.
-- **Advertising Technologies:** Third-party advertisers may set cookies, web beacons, pixels, or script tags to serve, cap, and measure ads (including pop-unders and interstitial units).
-- **User Control:** You may disable or clear cookies through your browser settings. Please note that disabling essential cookies or running ad-blocking software may affect the presentation or operation of the free website.
+We take reasonable measures to protect the Bot's operation and any data processed during a request. However, no method of data transmission is completely secure, and we cannot guarantee absolute security.
 
----
+## 9. Changes to This Policy
 
-## 7. Data Retention & Security
-
-- **Resolution Data:** Submitted URLs and output links are processed in memory and may be retained in temporary caches for short durations to optimize lookup performance. We do not maintain long-term personal browsing histories.
-- **Operational Logs:** Security logs, error records, and aggregate API metrics are retained only for the duration necessary to satisfy operational, audit, legal, and anti-abuse obligations.
-- **Security:** We apply industry-standard technical and operational safeguards to protect your data. However, no internet-based service or data transmission can be guaranteed to be 100% secure.
-
----
-
-## 8. Children's Privacy
-
-Keypass is not directed to children under the age of 13 (or under the minimum age prescribed by your jurisdiction). We do not knowingly collect personal information from children.
-
----
-
-## 9. Your Choices
-
-- You can discontinue using the Service at any time.
-- If you have saved your API key on the website, you may remove it at any time by clearing your browser's local cache or using the interface reset button.
-- For questions regarding your API account or to request credential removal, contact our support team.
-
----
-
-## 10. Changes to This Privacy Policy
-
-We may update this Privacy Policy periodically to reflect changes in our service architecture, advertising partners, or legal requirements. Updated versions will be indicated by the "Last Updated" date at the top of this document.
+We may update this Privacy Policy from time to time. Changes will be reflected by updating the "Last Updated" date. Continued use of the Service after changes constitutes acceptance of the updated policy.
