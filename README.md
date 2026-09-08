@@ -179,7 +179,7 @@ We process data strictly to:
 We do not sell your personal information. However, we integrate with select infrastructure and monetization partners to deliver the Service:
 
 - **Security & Verification Partners:** We utilize **Cloudflare** (including Turnstile) to mitigate DDoS attacks, verify human interaction, and secure our network.
-- **Advertising Networks:** The free website uses third-party advertising networks, such as **AdMaven** (and potentially others, such as Google AdSense or similar partners in the future). These advertising partners may collect technical identifiers, such as:
+- **Advertising Networks:** The free website uses third-party advertising networks, such as **Adsterra** (and potentially others, such as Google AdSense or similar partners in the future). These advertising partners may collect technical identifiers, such as:
   - IP address and approximate geographic location.
   - Browser type, operating system, and device configuration.
   - Referral data, click interactions, and cookie/tag identifiers.
